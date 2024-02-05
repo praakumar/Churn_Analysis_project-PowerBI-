@@ -23,11 +23,11 @@ This is an interactive dashboard created on PowerBi, that analyses the reasons a
 
 - **These tables are separated into multiple files:**
 
-    - ```Telco_customer_churn_demographics.xlsx```
-    - ```Telco_customer_churn_location.xlsx```
-    - ```Telco_customer_churn_population.xlsx```
-    - ```Telco_customer_churn_services.xlsx```
-    - ```Telco_customer_churn_status.xlsx```
+    - Telco_customer_churn_demographics.xlsx
+    - Telco_customer_churn_location.xlsx
+    - Telco_customer_churn_population.xlsx
+    - Telco_customer_churn_services.xlsx
+    - Telco_customer_churn_status.xlsx
 
 **You can know more about the dataset here:** 
 
@@ -38,12 +38,12 @@ This is an interactive dashboard created on PowerBi, that analyses the reasons a
 A star schema model is built for a faster-analyzing process.
 The Telco Customer Churn Star Schema Model contains: 
 - **One fact table:**
-    - ```Telco_Churn_Fact```
+    - Telco_Churn_Fact
 - **Four dimensions tables:**
-    - ```Services_Dim```
-    - ```Demographics_Dim```
-    - ```Location_Dim``` which contains sub-dimension ```Population_Dim```
-    - ```Status_Dim```
+    - Services_Dim
+    - Demographics_Dim
+    - Location_Dim which contains sub-dimension Population_Dim
+    - Status_Dim
 
 ![DataModel](https://github.com/praakumar/Churn_Analysis_project-PowerBI-/blob/main/ScreenShots/DataModel.png)
 
