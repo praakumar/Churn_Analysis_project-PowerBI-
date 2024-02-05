@@ -4,7 +4,7 @@
 
 ## Project Overview:
 
-An interactive dashboard to represent some analysis of "Telco customer churn" data and the reasons that made customers churn using Microsoft Power BI.
+This is an interactive dashboard created on PowerBi, that analyses the reasons and insights for the customer churn from the kaggle data set of "Telco Customer Churn"
 
 
 ## About Dataset:
